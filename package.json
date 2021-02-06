@@ -1,0 +1,33 @@
+{
+  "//1": "onaylı",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Onaylancak",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4",
+    "discord-backup": "^2.4.1",
+    "croxydb": "^0.0.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
